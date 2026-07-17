@@ -2,6 +2,8 @@
 
 A one-screen animated typographic landing page.
 
+**Live:** <https://being.jantrautwein.com>
+
 ## Local preview
 
 ```bash
